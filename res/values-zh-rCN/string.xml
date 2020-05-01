@@ -533,6 +533,10 @@
     <string name="aggressive_battery_saver_title">省电模式时自动开启</string> 
     <string name="aggressive_battery_saver_summary">当使用省电模式时自动开启极限省电</string>
 
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">阻止应用使用传感器</string>
+    <string name="sensor_block_summary">阻止某些应用访问一些传感器以节省电量</string>
+
     <!-- Volume swap buttons -->
     <string name="swap_volume_buttons_title">反转音量键</string>
     <string name="swap_volume_buttons_summary">当屏幕旋转时交换音量键布局</string>
@@ -657,5 +661,23 @@
     <string name="content_padding">圆角填充</string>
     <string name="corner_fwvals">使用系统值</string>
     <string name="corner_fwvals_summary">如果设备本身有圆角，则非常有用</string>
+
+    <!-- Media headsup -->
+    <string name="show_media_heads_up_title">显示媒体悬浮通知</string>
+    <string name="show_media_heads_up_summary">当媒体应用未在前台播放时,播放到新曲目时会弹出悬浮通知</string>
+
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_title">自适应播放控制</string>
+    <string name="adaptive_playback_summary">静音时暂停媒体播放，在超时范围内增加音量可以恢复媒体播放</string>
+    <string name="adaptive_playback_timeout_title">媒体播放超时时间</string>
+    <string name="adaptive_playback_timeout_30_secs">30 秒</string>
+    <string name="adaptive_playback_timeout_1_min">1 分钟</string>
+    <string name="adaptive_playback_timeout_2_min">2 分钟</string>
+    <string name="adaptive_playback_timeout_5_min">5 分钟</string>
+    <string name="adaptive_playback_timeout_10_min">10 分钟</string>
+
+    <!-- QS tiles Accent color tinting -->
+    <string name="tint_qs_tiles_title">QS 磁贴强调色</string>
+    <string name="tint_qs_tiles_summary">设置 QS 磁贴强调色</string>
 
 </resources>
