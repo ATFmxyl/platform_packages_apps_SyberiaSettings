@@ -48,7 +48,7 @@
             android:title="@string/adb_notify"
             android:summary="@string/adb_notify_summary"
             android:defaultValue="true" />
-	    
+
     <PreferenceCategory
         android:key="aspect_ratio_category"
         android:title="@string/aspect_ratio_category_title">
